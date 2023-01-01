@@ -6,7 +6,7 @@
 #include <time.h>
 #include <dos.h>
 
-/////
+//////
 void minSecPos(int xrad, int midx, int midy, int x[60], int y[60])
 {
 int i, j=45;
